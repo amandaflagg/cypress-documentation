@@ -101,6 +101,7 @@ sidebar:
     contains: contains
     dblclick: dblclick
     debug: debug
+    defineSession: defineSession
     document: document
     each: each
     end: end
@@ -163,7 +164,6 @@ sidebar:
     uncheck: uncheck
     url: url
     useSession: useSession
-    defineSession: defineSession
     viewport: viewport
     visit: visit
     wait: wait

@@ -85,6 +85,7 @@ api:
     contains: contains.html
     dblclick: dblclick.html
     debug: debug.html
+    defineSession: defineSession.html
     document: document.html
     each: each.html
     end: end.html
@@ -147,7 +148,6 @@ api:
     uncheck: uncheck.html
     url: url.html
     useSession: useSession.html
-    defineSession: defineSession.html
     viewport: viewport.html
     visit: visit.html
     wait: wait.html
